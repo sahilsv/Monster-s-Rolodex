@@ -1,6 +1,6 @@
 # Getting Started with Monster's Rolodex project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A monster's rolodex built using React
 
 ## Available Scripts
 
