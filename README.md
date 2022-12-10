@@ -1,6 +1,6 @@
 # Getting Started with Monster's Rolodex project
 
-A monster's rolodex built using React
+A monster's rolodex built using React.
 
 ## Available Scripts
 
